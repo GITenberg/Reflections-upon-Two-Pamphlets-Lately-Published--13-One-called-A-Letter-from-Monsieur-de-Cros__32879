@@ -1,0 +1,34 @@
+_repo: Reflections-upon-Two-Pamphlets-Lately-Published--13-One-called-A-Letter-from-Monsieur-de-Cros__32879
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Temple, William, Sir, 1628-1699 -- Early works to 1800'
+- !lcc 'D'
+- !lcsh 'Dutch War, 1672-1678 -- Early works to 1800'
+- !lcsh 'Du Cros, Simon, active 17th century. Lettre de Monsieur Du Cros à Mylord
+  **** afin de servir de réponse aux impostures de Monsieur le chevalier Temple --
+  Early works to 1800'
+title: "Reflections upon Two Pamphlets Lately Published\r\nOne called, A Letter from\
+  \ Monsieur de Cros, concerning the Memoirs of Christendom, and the Other, An Answer\
+  \ to that Letter."
+url: http://www.gutenberg.org/ebooks/32879
